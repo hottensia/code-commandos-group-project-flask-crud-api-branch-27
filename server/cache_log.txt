@@ -1,0 +1,6 @@
+Cache miss: all_students at 2024-08-28 18:56:03.061690
+Cache miss: student_0f6a02cb-5d5c-485e-98bb-82f2bbed2a3d at 2024-08-28 18:56:03.123382
+Cache miss: all_students at 2024-08-28 20:07:12.205565
+Cache miss: student_f14170e8-0df0-4686-bae3-677f298ba82d at 2024-08-28 20:07:39.354143
+Cache hit: all_students at 2024-08-28 20:07:46.776112
+Cache hit: all_students at 2024-08-28 20:11:10.950380
